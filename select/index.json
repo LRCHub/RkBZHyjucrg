@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Gaze on Me!",
+  "base_artist": "ウオッカ (CV. 大橋彩香)、ダイワスカーレット (CV. 木村千咲)、マヤノトップガン (CV. 星谷美緒)、スマートファルコン (CV. 大和田仁美)、ダイタクヘリオス (CV. 山根 綺)、サクラローレル (CV. 真野美月)、ヤマニンゼファー (CV. 今泉りおな)、ダイイチルビー (CV. 礒部花凜)、アストンマーチャン (CV. 井上ほの花)、ケイエスミラクル (CV. 佐藤日向)、コパノリッキー (CV. 稲垣 好)、ホッコータルマエ (CV. 菊池紗矢香)、ワンダーアキュート (CV. 須藤叶希)",
+  "createdAt": "2025-12-30T04:57:15.946722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gaze on Me!",
+      "artist": "ウオッカ (CV. 大橋彩香)",
+      "has_synced": false,
+      "path": "select/01_Gaze_on_Me!_ウオッカ_(CV._大橋彩香).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gaze on Me!",
+      "artist": "Vodka (CV: Ayaka Ohashi), Daiwa Scarlet (CV: Chisa Kimura), Mayano Top Gun (CV: Mio Hoshitani), Smart Falcon (CV: Hitomi Ohwada), Daitaku Helios (CV: Aya Yamane), Sakura Laurel (CV: Mizuki Mano), Yamanin Zephyr (CV: Riona Imaizumi), Daiichi Ruby (CV: Karin Isobe), Aston Machan (CV: Honoka Inoue), K.S.Miracle (CV: Hinata Sato), Copano Rickey (CV: Konomi Inagaki), Hokko Tarumae (CV: Sayaka Kikuchi) & Wonder Acute (CV: Kanoko Sudo)",
+      "has_synced": true,
+      "path": "select/02_Gaze_on_Me!_Vodka_(CV__Ayaka_Ohashi),_Daiwa_Scarlet_(CV__Chisa_Kimura),_Mayano_Top_Gun_(CV__.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gaze on Me!",
+      "artist": "ウオッカ(大橋彩香),ダイワスカーレット(木村千咲),マヤノトップガン(星谷美緒),スマートファルコン(大和田仁美),ダイタクヘリオス(山根綺),サクラローレル(真野美月),ヤマニンゼファー(今泉りおな),ダイイチルビー(礒部花凜),アストンマーチャン(井上ほの花),ケイエスミラクル(佐藤日向),コパノリッキー(稲垣好),ホッコータルマエ(菊池紗矢香),ワンダーアキュート(須藤叶希)",
+      "has_synced": false,
+      "path": "select/pl_01_Gaze_on_Me!_ウオッカ(大橋彩香),ダイワスカーレット(木村千咲),マヤノトップガン(星谷美緒),スマートファルコン(大和田仁美),ダイタクヘリオス(山根綺),サクラローレル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Gaze on Me! (Game Size)",
+      "artist": "ウオッカ(大橋彩香),ダイワスカーレット(木村千咲),マヤノトップガン(星谷美緒),スマートファルコン(大和田仁美),ダイタクヘリオス(山根綺),サクラローレル(真野美月),ヤマニンゼファー(今泉りおな),ダイイチルビー(礒部花凜),アストンマーチャン(井上ほの花),ケイエスミラクル(佐藤日向),コパノリッキー(稲垣好),ホッコータルマエ(菊池紗矢香),ワンダーアキュート(須藤叶希)",
+      "has_synced": false,
+      "path": "select/pl_02_Gaze_on_Me!_(Game_Size)_ウオッカ(大橋彩香),ダイワスカーレット(木村千咲),マヤノトップガン(星谷美緒),スマートファルコン(大和田仁美),ダイタクヘリオス(山根綺),サクラローレル.txt"
+    }
+  ]
+}
